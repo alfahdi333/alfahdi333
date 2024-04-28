@@ -2,7 +2,8 @@
 - 👋 Hi there! Welcome to my GitHub profile!
 - 🌱 a passionate frontend developer with a knack for creating delightful user experiences!
 - 💞️ I'm always eager to expand my skills and stay up-to-date with the latest trends in frontend development. Currently, I'm diving deeper into advanced JavaScript  ...
-- 📫 ✨  Let's Connect: - LinkedIn: My LinkedIn Profile in my bio    my Behance page: https://www.behance.net/jasfahdi
+- 📫 ✨  Let's Connect: - LinkedIn: https://www.linkedin.com/in/jahad-alfahdi-b2889419b/
+- 🎨 my Behance page: https://www.behance.net/jasfahdi
 
  
 
